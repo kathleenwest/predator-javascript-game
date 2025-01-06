@@ -17,9 +17,9 @@ Play [PREDATOR](https://kathleenwest.github.io/predator-javascript-game/)
 
 Join the battle and see if you have what it takes to defeat the Predator. May the best warrior win!
 
-## Demo Video
+## Demo Video on YouTube
 
-![Demo of App](demo.jpg)
+[![Watch the demo video](./demo/demo.jpg)](https://www.youtube.com/shorts/fo8ljxS0Aws "Predator JavaScript Demo Video")
 
 ## Why Did You Make This?
 
