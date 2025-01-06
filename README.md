@@ -1,19 +1,29 @@
 # Predator JavaScript Demo Game
 
-Play PREDATOR online from the [GitHub Page](https://kathleenwest.github.io/predator-javascript-game/)
+Play [PREDATOR](https://kathleenwest.github.io/predator-javascript-game/)
+
+**Predator Game** is an exciting and action-packed JavaScript game inspired by the classic movie *Predator*. In this thrilling online game, players step into the shoes of a fearless warrior on a mission to hunt down and kill the Predator. But be careful—the Predator fights back, and players need to avoid getting hit!
+
+**Features:**
+- **Dynamic Gameplay**: Engage in a fast-paced battle against the Predator. Use your skills and reflexes to outmaneuver and defeat the enemy.
+- **Stats Tracking**: Keep track of your performance with real-time stats. See how many hits and kills you’ve made, and aim for the high score!
+- **Play Online**: No need to download anything. Play the game directly on GitHub and challenge your friends to beat your score.
+
+**How to Play:**
+1. Navigate to the [game page](https://kathleenwest.github.io/predator-javascript-game/).
+2. Use the mouse cursor to move and attack.
+3. Dodge the Predator's attacks and land your kills.
+4. Watch your stats to see how well you're doing!
+
+Join the battle and see if you have what it takes to defeat the Predator. May the best warrior win!
+
+## Demo Video
 
 ![Demo of App](demo.jpg)
 
-## How to Run Project Locally
-
-'
-Download project
-Double click on "index.html" to open in your web browser
-'
-
 ## Why Did You Make This?
 
-Why not? Got a little bored with online JavaScript practice tutorials and just wanted to make something. 
+Why not? Got a little bored with online JavaScript practice tutorials and just wanted to make something fun. 
 
 ## My Project License
 
