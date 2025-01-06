@@ -1,6 +1,6 @@
 # Predator JavaScript Demo Game
 
-Play predator online from my portfolio website here. 
+Play PREDATOR online from the [GitHub Page](https://kathleenwest.github.io/predator-javascript-game/)
 
 ![Demo of App](demo.jpg)
 
