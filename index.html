@@ -1,0 +1,22 @@
+<html lang="en">
+  <head>
+        <meta charset="utf-8" />
+        <link rel="icon" href="./images/game.ico" />
+        <title>Predator Game</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <center>
+            <img id="predatorImage" src="./images/predator.png" alt="Clickable Image" onclick="handleClick()">
+            <h1>PREDATOR</h1>
+            <audio loop id="audioPlayer" src="./audio/scary.wav"></audio>
+            <audio id="audioWinSound" src="./audio/win.mp3"></audio>
+            <audio id="audioHitSound" src="./audio/loseCry.mp3"></audio>
+            <button id="start-btn" onclick="start()">START</button>
+            <button id="stop-btn" onclick="stop()">STOP</button>
+            <h2 id="stats-el"></h2>
+        </center>
+        <script src="index.js"></script>  
+    </body>
+</html>
